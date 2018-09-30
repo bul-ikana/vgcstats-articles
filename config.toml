@@ -1,4 +1,4 @@
-baseURL = "https://articles.vgcstats.com"
+baseURL = "https://articles.vgcstats.com/"
 languageCode = "en-us"
 title = "VGCStats"
 theme = "vgcstats-articles-theme"
