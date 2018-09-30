@@ -1,3 +1,27 @@
-baseURL = "http://example.org/"
+baseURL = "https://articles.vgcstats.com"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "VGCStats"
+theme = "vgcstats-articles-theme"
+paginate = 6
+
+[params]
+  defaultImage = "gopher.jpg"
+
+  facebook = ""
+  quora = ""
+  twitter = ""
+  github = ""
+  email = ""
+
+  fbLikeBox = ""
+  fbAppId = ""
+  fbPageUrl = ""
+  fbPageTitle = ""
+
+  analytics = ""
+  disqus = ""
+
+  [params.copyright]
+     name = "bool"
+     link = "https://bool.netlify.com"
+
