@@ -183,7 +183,7 @@ Thank you to…
 * Aaron Traylor for getting me into this format and encouraging me to play again after leaving competition for years, guiding me through most everything I do that’s related to Pokemon, cheering me on throughout the tournament, and editing this report!  
 * Chuppa for talking to me every day whether it’s about Pokemon or just life, for being both my best testing buddy and my closest confidant.  
 * Enosh for teaching me how to approach this format by making the best decisions possible every turn, and spending so much time helping me adopt a winning mindset.  
-* Jake, Ryan, Wacka, Yan, Dani, Jonathan McMillan, Nails, and all my other friends who hung out with me at the tournament.  
+* Jake Magier, Ryan, Wacka, Yan, Dani, Jonathan McMillan, Nails, and all my other friends who hung out with me at the tournament.  
 *  Jonathan Evans and Gavin for the team.
 *  My dad for driving me to the regional and taking such a huge interest in VGC.
 *  Everyone else who helped me with Bo3 practice before the tournament.
