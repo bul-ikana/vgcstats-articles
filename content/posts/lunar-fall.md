@@ -76,7 +76,7 @@ EVs: 252 HP / 4 Def / 252 Spe
 Jolly Nature  
 - Lovely Kiss  
 - Follow Me  
-- Wide Guard
+- Wide Guard  
 - Fake Out  
  
 Bring rate: 18/20 (90%)  
