@@ -162,7 +162,7 @@ Justin’s team was incredibly threatening for me, as he combined four Pokemon t
 ![][Xerneas] ![][Zygarde] ![][Tapu Fini] ![][Incineroar] ![][Amoonguss] ![][Klefki]  
 ![][Lunala] ![][Smeargle] / ![][Incineroar] ![][Xerneas] vs. ![][Klefki] ![][Incineroar] / ![][Xerneas] ![][Amoonguss]  
 ![][Xerneas] ![][Smeargle] / ![][Stakataka] ![][Lunala] vs. ![][Xerneas] ![][Amoonguss] / ![][Incineroar] ![][Zygarde]  
-Watch this set [here](https://www.twitch.tv/videos/310475598?t=04h18m08s)!  
+Watch this set [here](https://www.twitch.tv/videos/314175076)!  
 
 This match was on stream! I had never been on a stream for a major tournament before, so anxiety was eating away at me before the match. I respect Wolfe a lot and I think we can all agree that he’s one of the best players in the world, but the last thing I wanted was to lose on my first appearance on stream. Lovely Kiss won me the set by putting Wolfe’s Amoonguss to sleep repeatedly. I was so thrilled to win this set! No matter what happened next round, whether or not I top cut the regional, I was so happy with myself at that point that I didn’t even care anymore.
  
