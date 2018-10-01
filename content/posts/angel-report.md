@@ -1,5 +1,5 @@
 ---
-title: " - Angel Miranda's 3rd Place Philadelphia Report"
+title: "It's Always Sunny in Oaks - Angel Miranda's 3rd Place Philadelphia Report"
 img: venu.png
 author: Angel Miranda
 date: 2018-10-01
@@ -11,7 +11,7 @@ Leading up to the tournament I decided I needed to take testing for the upcoming
 
 I really liked the team Nick gave me, but it had two major problems that I needed to resolve before it was ready for Regionals: Tapu Fini never accomplished anything in the games in came to, and a properly positioned Choice Scarf Kyogre was difficult to handle. My knee-jerk reaction to these issues was to replace Tapu Fini with Assault Vest Ludicolo, but immediately after I made that change, players on the ladder started using Kyogre with Crobat and my Ludicolo idea felt useless. Despite this issue, I felt like I would be bringing this team to the Regional regardless because I had felt lost with any other archetype, and I was comfortable using Groudon and Venusaur. Upon arriving to my hotel the night before the Regional would take place, a good friend of mine, Kimo, suggested I put Assault Vest Kartana over the Tapu Fini slot. I immediately felt like this change would fill a hole in the team. I had my friend Jonathan Evans help me with the Kartana EV spread, and the team was complete.
 
-##The Team
+## The Team
 
 ![][Groudon] ![][Venusaur] ![][Xerneas] ![][Incineroar] ![][Heatran] ![][Kartana]  
 
@@ -91,7 +91,7 @@ Jolly Nature
 
 The final member of the team thanks to Kimo, and boy did it make a difference for me. Kartana did a lot for my team: it fixes up the Kyogre matchup a bit, helps with the Lunala matchup, and gives me another check for opposing Groudon + Xerneas teams. During the tournament I quickly realized how easy it was for Kartana to snowball pressure thanks to its coverage. Many common Pokemon are weak to Kartana, and it has Groudon to help deal with opposing Incineroar. I wanted all four moves to hit as many things for Super Effective damage as possible and I wouldn’t change a thing about the moveset. The spread allows Kartana to take one Kyogre Water Spout in rain, plus another in sun, while outspeeding Xerneas. The Attack EVs gave me a more reasonable chance to 2HKO 4HP EV Xerneas with a -1 Smart Strike. Kartana was overall a really threatening Pokemon for a lot of teams and it reinforced my opinion that Grass is one of the best Pokemon types in this current format. The ability to threaten KOs on both major weather setters and hit Xerneas for super effective damage is insanely valuable. Knock Off also allows you to deal with Lunala much more effectively. If I had to make any change to my team it would be to respect opposing Kartana a bit more, as my opponents’ own Kartana can make the mirror challenging.
 
-##Closing Thoughts  
+## Closing Thoughts  
 I didn’t take notes during my tournament run so I won’t be able to go into detail about my matches, but overall I was very happy with this team and I think it’s one of the best in the format.  I finished 7-1 in Swiss rounds, losing only to Justin Crubaugh using Kyogre/Yveltal, who I was later able to beat in a rematch. I eventually ended up losing to the same team again in Top 4, this time at the hands of Justin Burns. While it was a difficult match, it felt very winnable, but in the end Justin Burns played better than me. I’m satisfied with my loss and how the team performed. I think this team will continue to be very strong and possibly even win a couple of tournaments before Sun Series is over, so if you are looking for a good team to try out I would definitely recommend this!
 
 [Xerneas]:https://www.serebii.net/pokedex-sm/icon/716.png
