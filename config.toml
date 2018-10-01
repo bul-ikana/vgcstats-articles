@@ -18,7 +18,7 @@ paginate = 6
   fbPageUrl = ""
   fbPageTitle = ""
 
-  analytics = ""
+  analytics = "UA-112526902-1"
   disqus = ""
 
   [params.copyright]
