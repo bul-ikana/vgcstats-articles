@@ -105,15 +105,15 @@ I think Incineroar, Xerneas and Groudon are insanely good together. They have a 
 Overall, my team was a good call and it was a strong pick for the early meta, but moving forward I don’t know if it will hold up. Venusaur is a problem matchup that I didn't take account for and it is clearly gaining a lot of traction. I think my team needs some changes and the idea of Drifblim Lele might be better with some different restricted Pokémon. Thanks for reading!
 
 
-### People who helped me
+### People Who Helped Me
 
-Toler Webb - I owe you so much. For Worlds and for this Regional, you were always by my side helping me and making sure I was doing this for me and that I was still focusing on improving. Thanks buddy <3
+**Toler Webb** - I owe you so much. For Worlds and for this Regional, you were always by my side helping me and making sure I was doing this for me and that I was still focusing on improving. Thanks buddy <3
 
-Case - I was super lost but, when we started talking, you guided me and helped me understand the meta and format better. Thanks for the idea of Drifblim Lele, I look forward to working with you in the future.
+**Case** - I was super lost but, when we started talking, you guided me and helped me understand the meta and format better. Thanks for the idea of Drifblim Lele, I look forward to working with you in the future.
 
-Ingrid - Thanks for helping me keep a calm head throughout the day and for helping me practice. Also, talking through matchups with you helped me throughout the day especially versus Justin Crubaugh. 
+**Ingrid** - Thanks for helping me keep a calm head throughout the day and for helping me practice. Also, talking through matchups with you helped me throughout the day especially versus Justin Crubaugh. 
 
-Caleb and Kimo - Hanging out with the Yung Money crew really made that weekend a blast and I am so glad I got to spend as much time with you guys as I did.
+**Caleb and Kimo** - Hanging out with the Yung Money crew really made that weekend a blast and I am so glad I got to spend as much time with you guys as I did.
 
 *Edited by Aaron Traylor, Jen Badamo, and Zach Carlson*
 
