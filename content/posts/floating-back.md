@@ -115,7 +115,7 @@ Ingrid - Thanks for helping me keep a calm head throughout the day and for helpi
 
 Caleb and Kimo - Hanging out with the Yung Money crew really made that weekend a blast and I am so glad I got to spend as much time with you guys as I did. 
 
-# *Edited by Aaron Traylor, Jen Badamo, and Zach Carlson*
+#### *Edited by Aaron Traylor, Jen Badamo, and Zach Carlson*
 
 [Xerneas]:https://www.serebii.net/pokedex-sm/icon/716.png
 [Ho-Oh]:https://www.serebii.net/pokedex-sm/icon/250.png
