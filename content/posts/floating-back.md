@@ -59,7 +59,7 @@ Adamant Nature
 
 Groudon is still amazing, despite losing access to Red Orb, so I knew I wanted it for my team. Incineroar is the most popular Pokemon in the metagame right now, and Choice Band Groudon is one of the few Pokemon that can actually OHKO it through Intimidate. Choice Band Groudon can catch opponents off guard simply due to the sheer damage output. Groudon needs nearly max Attack investment to get this KO, and after that I chose to outspeed Ludicolo in Sun and put the rest of the investment in bulk.
 
-![](https://www.serebii.net/sunmoon/pokemon/716.png)  
+![](https://www.serebii.net/sunmoon/pokemon/716-a.png)  
 Xerneas @ Power Herb  
 Ability: Fairy Aura  
 EVs: 236 HP / 40 Def / 44 SpD / 188 Spe  
@@ -113,9 +113,9 @@ Case - I was super lost but, when we started talking, you guided me and helped m
 
 Ingrid - Thanks for helping me keep a calm head throughout the day and for helping me practice. Also, talking through matchups with you helped me throughout the day especially versus Justin Crubaugh. 
 
-Caleb and Kimo - Hanging out with the Yung Money crew really made that weekend a blast and I am so glad I got to spend as much time with you guys as I did. 
+Caleb and Kimo - Hanging out with the Yung Money crew really made that weekend a blast and I am so glad I got to spend as much time with you guys as I did.
 
-#### *Edited by Aaron Traylor, Jen Badamo, and Zach Carlson*
+*Edited by Aaron Traylor, Jen Badamo, and Zach Carlson*
 
 [Xerneas]:https://www.serebii.net/pokedex-sm/icon/716.png
 [Ho-Oh]:https://www.serebii.net/pokedex-sm/icon/250.png
