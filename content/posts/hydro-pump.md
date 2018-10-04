@@ -62,20 +62,23 @@ Palkia’s best asset is its Speed. While base 100 normally isn’t that impress
 
 Of course, Palkia definitely has some big flaws. The most obvious is accuracy. Every time I clicked Spacial Rend or Hydro Pump, I had to accept the fact that my move might miss, and that miss might lose me the game. Palkia is probably the most RNG susceptible restricted Pokémon in the format, as it doesn’t have any perfectly accurate moves that aren’t coverage. This was only exacerbated by the imperfect accuracy of Nature’s Madness that most commonly went with Palkia, and I definitely lost some games to double misses. Another flaw is that Palkia is kind of weird to teambuild with. I got a few comments that people had been struggling to make Palkia work, and I think that’s because Palkia honestly doesn’t have great synergy with the other restricted Pokémon. While it puts in work against a bunch of big meta Pokémon, it doesn’t hard counter anything besides Kyogre, and it’s honestly a little awkward against common threats like Xerneas, Yveltal, Lunala and Tapu Lele. Palkia isn’t a Pokémon you can just slap on a team; it needs the team to work around it and help it utilize its offensive capabilities. Ultimately, Palkia is a Pokémon that can work because of its great speed, amazing damage output, solid coverage, and the ability to threaten the majority of the metagame for 50+% damage.
 
-Some relevant damage calcs:
-> 252 SpA Lustrous Orb Palkia Hydro Pump vs. 236 HP / 236+ SpD Incineroar: 198-234 (99 - 117%) -- 93.8% chance to OHKO
+<details>
+<summary>Some relevant damage calcs:</summary>
+<br>
+252 SpA Lustrous Orb Palkia Hydro Pump vs. 236 HP / 236+ SpD Incineroar: 198-234 (99 - 117%) -- 93.8% chance to OHKO
 
-> 252 SpA Lustrous Orb Palkia Spacial Rend vs. 4 HP / 0 SpD Kyogre: 85-102 (48.2 - 57.9%) -- 94.5% chance to 2HKO
+252 SpA Lustrous Orb Palkia Spacial Rend vs. 4 HP / 0 SpD Kyogre: 85-102 (48.2 - 57.9%) -- 94.5% chance to 2HKO
 
-> 252 SpA Lustrous Orb Palkia Hydro Pump vs. 252 HP / 0 SpD Groudon in Sun: 134-162 (64.7 - 78.2%) -- guaranteed 2HKO
+252 SpA Lustrous Orb Palkia Hydro Pump vs. 252 HP / 0 SpD Groudon in Sun: 134-162 (64.7 - 78.2%) -- guaranteed 2HKO
 
-> 252 SpA Palkia Flamethrower vs. 252 HP / 52 SpD Ferrothorn: 192-228 (106 - 125.9%) -- guaranteed OHKO
+252 SpA Palkia Flamethrower vs. 252 HP / 52 SpD Ferrothorn: 192-228 (106 - 125.9%) -- guaranteed OHKO
 
-> 252 SpA Lustrous Orb Palkia Spacial Rend vs. 0 HP / 4 SpD Yveltal: 115-136 (57.2 - 67.6%) -- guaranteed 2HKO
+252 SpA Lustrous Orb Palkia Spacial Rend vs. 0 HP / 4 SpD Yveltal: 115-136 (57.2 - 67.6%) -- guaranteed 2HKO
 
-> 252 SpA Lustrous Orb Palkia Hydro Pump vs. 252 HP / 0 SpD Xerneas: 127-151 (54.5 - 64.8%) -- guaranteed 2HKO
+252 SpA Lustrous Orb Palkia Hydro Pump vs. 252 HP / 0 SpD Xerneas: 127-151 (54.5 - 64.8%) -- guaranteed 2HKO
 
-> 252 SpA Lustrous Orb Palkia Hydro Pump vs. 252 HP / 4 SpD Dusk Mane Necrozma: 117-138 (57.3 - 67.6%) -- guaranteed 2HKO
+252 SpA Lustrous Orb Palkia Hydro Pump vs. 252 HP / 4 SpD Dusk Mane Necrozma: 117-138 (57.3 - 67.6%) -- guaranteed 2HKO
+<details>
 
 ![](https://www.serebii.net/sunmoon/pokemon/791.png)  
 Solgaleo @ Life Orb  
