@@ -47,7 +47,6 @@ Tapu Koko was basically a watered down version of Tapu Lele on this team but wit
 ![](https://www.serebii.net/sunmoon/pokemon/484.png)  
 Palkia @ Lustrous Orb  
 Ability: Pressure  
-Level: 50  
 EVs: 252 SpA / 4 SpD / 252 Spe  
 Timid Nature  
 IVs: 0 Atk  
@@ -63,7 +62,7 @@ Palkia’s best asset is its Speed. While base 100 normally isn’t that impress
 Of course, Palkia definitely has some big flaws. The most obvious is accuracy. Every time I clicked Spacial Rend or Hydro Pump, I had to accept the fact that my move might miss, and that miss might lose me the game. Palkia is probably the most RNG susceptible restricted Pokémon in the format, as it doesn’t have any perfectly accurate moves that aren’t coverage. This was only exacerbated by the imperfect accuracy of Nature’s Madness that most commonly went with Palkia, and I definitely lost some games to double misses. Another flaw is that Palkia is kind of weird to teambuild with. I got a few comments that people had been struggling to make Palkia work, and I think that’s because Palkia honestly doesn’t have great synergy with the other restricted Pokémon. While it puts in work against a bunch of big meta Pokémon, it doesn’t hard counter anything besides Kyogre, and it’s honestly a little awkward against common threats like Xerneas, Yveltal, Lunala and Tapu Lele. Palkia isn’t a Pokémon you can just slap on a team; it needs the team to work around it and help it utilize its offensive capabilities. Ultimately, Palkia is a Pokémon that can work because of its great speed, amazing damage output, solid coverage, and the ability to threaten the majority of the metagame for 50+% damage.
 
 <details>
-<summary>Damage Calcs</summary>
+<summary>Palkia Damage Calcs</summary>
 <br>
 252 SpA Lustrous Orb Palkia Hydro Pump vs. 236 HP / 236+ SpD Incineroar: 198-234 (99 - 117%) -- 93.8% chance to OHKO
 
@@ -80,10 +79,10 @@ Of course, Palkia definitely has some big flaws. The most obvious is accuracy. E
 252 SpA Lustrous Orb Palkia Hydro Pump vs. 252 HP / 4 SpD Dusk Mane Necrozma: 117-138 (57.3 - 67.6%) -- guaranteed 2HKO
 </details>
 
+
 ![](https://www.serebii.net/sunmoon/pokemon/791.png)  
 Solgaleo @ Life Orb  
 Ability: Full Metal Body  
-Level: 50  
 EVs: 252 Atk / 4 SpD / 252 Spe  
 Adamant Nature  
 - Sunsteel Strike  
@@ -92,7 +91,7 @@ Adamant Nature
 - Protect  
 
 <details>
-<summary>Damage Calcs</summary>
+<summary>Solgaleo Damage Calcs</summary>
 <br>
 > 252+ Atk Life Orb Solgaleo Sunsteel Strike vs. 252 HP / 0 Def Xerneas: 265-315 (113.7 - 135.1%) -- guaranteed OHKO
 
@@ -108,7 +107,6 @@ These four calcs were the reason I chose Solgaleo as my second restricted. Besid
 ![](https://www.serebii.net/sunmoon/pokemon/598.png)  
 Ferrothorn @ Figy Berry  
 Ability: Iron Barbs  
-Level: 50  
 EVs: 252 HP / 252 Atk / 4 SpD  
 Brave Nature  
 IVs: 0 Spe  
@@ -122,7 +120,6 @@ In my opinion, Ferrothorn is one of the most consistent Pokémonin the format. W
 ![](https://www.serebii.net/sunmoon/pokemon/479-m.png)  
 Rotom-Mow @ Sitrus Berry  
 Ability: Levitate  
-Level: 50  
 EVs: 252 HP / 108 Def / 84 SpA / 20 SpD / 44 Spe  
 Modest Nature  
 IVs: 0 Atk  
@@ -136,7 +133,7 @@ Despite being the most unique pick, this little lawnmower did absolutely nothing
 While it didn’t work in practice, Rotom Mow was theoretically my Groudon counter. 44 Speed EVs hits 112 Speed, allowing me to outrun 4 Speed EV Groudon. This speed also made me faster than anything Base 100 Speed or slower after an Electroweb. The spread was designed mainly around Groudon teams with the following calcs:
 
 <details>
-<summary>Damage Calcs</summary>
+<summary>Rotom Damage Calcs</summary>
 <br>
 84+ SpA Rotom-C Leaf Storm vs. 252 HP / 0 SpD Groudon: 200-236 (96.6 - 114%) -- 75% chance to OHKO
 
