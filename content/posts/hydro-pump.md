@@ -64,7 +64,7 @@ Of course, Palkia definitely has some big flaws. The most obvious is accuracy. E
 <details>
 <summary>*Palkia Damage Calcs*</summary>
 <br>
-*252 SpA Lustrous Orb Palkia Hydro Pump vs. 236 HP / 236+ SpD Incineroar: 198-234 (99 - 117%) -- 93.8% chance to OHKO
+252 SpA Lustrous Orb Palkia Hydro Pump vs. 236 HP / 236+ SpD Incineroar: 198-234 (99 - 117%) -- 93.8% chance to OHKO
 
 252 SpA Lustrous Orb Palkia Spacial Rend vs. 4 HP / 0 SpD Kyogre: 85-102 (48.2 - 57.9%) -- 94.5% chance to 2HKO
 
@@ -76,7 +76,7 @@ Of course, Palkia definitely has some big flaws. The most obvious is accuracy. E
 
 252 SpA Lustrous Orb Palkia Hydro Pump vs. 252 HP / 0 SpD Xerneas: 127-151 (54.5 - 64.8%) -- guaranteed 2HKO
 
-252 SpA Lustrous Orb Palkia Hydro Pump vs. 252 HP / 4 SpD Dusk Mane Necrozma: 117-138 (57.3 - 67.6%) -- guaranteed 2HKO*
+252 SpA Lustrous Orb Palkia Hydro Pump vs. 252 HP / 4 SpD Dusk Mane Necrozma: 117-138 (57.3 - 67.6%) -- guaranteed 2HKO
 </details>
 
 
@@ -93,13 +93,13 @@ Adamant Nature
 <details>
 <summary>*Solgaleo Damage Calcs*</summary>
 <br>
-*252+ Atk Life Orb Solgaleo Sunsteel Strike vs. 252 HP / 0 Def Xerneas: 265-315 (113.7 - 135.1%) -- guaranteed OHKO
+252+ Atk Life Orb Solgaleo Sunsteel Strike vs. 252 HP / 0 Def Xerneas: 265-315 (113.7 - 135.1%) -- guaranteed OHKO
 
 252+ Atk Life Orb Solgaleo Superpower vs. 252 HP / 4 Def Incineroar: 221-260 (109.4 - 128.7%) -- guaranteed OHKO
 
 252+ Atk Life Orb Solgaleo Flare Blitz vs. 252 HP / 4 Def Groudon in Sun: 113-134 (54.5 - 64.7%) -- guaranteed 2HKO
 
-252+ Atk Life Orb Solgaleo Flare Blitz vs. 252 HP / 0 Def Ferrothorn: 322-385 (177.9 - 212.7%) -- guaranteed OHKO*
+252+ Atk Life Orb Solgaleo Flare Blitz vs. 252 HP / 0 Def Ferrothorn: 322-385 (177.9 - 212.7%) -- guaranteed OHKO
 </details>
 
 These four calcs were the reason I chose Solgaleo as my second restricted. Besides just threatening a huge amount of damage to anything not Water type, Solgaleo served as a specific check to a few threatening Pokémon. As long as I paired Solgaleo with Nature’s Madness, it could remove almost everything from the field and had pretty good defensive synergy with Palkia. Unfortunately, Solgaleo has some bad matchups in this format that I honestly didn’t prepare enough for. Yveltal, Lunala and Hidden Power Fire Venusaur under sun all eat Solgaleo for lunch, and Solgaleo can’t reliably remove the Pokémon I needed it to after a Superpower drop, so I had to be careful when using that move. Ultimately Solgaleo was pretty consistent, but had a few terrible matchups (most notably to Lunala and Yveltal) that made it play second fiddle to Palkia most games.
@@ -135,18 +135,18 @@ While it didn’t work in practice, Rotom Mow was theoretically my Groudon count
 <details>
 <summary>*Rotom Damage Calcs*</summary>
 <br>
-*84+ SpA Rotom-C Leaf Storm vs. 252 HP / 0 SpD Groudon: 200-236 (96.6 - 114%) -- 75% chance to OHKO
+84+ SpA Rotom-C Leaf Storm vs. 252 HP / 0 SpD Groudon: 200-236 (96.6 - 114%) -- 75% chance to OHKO
 
 84+ SpA Rotom-C Leaf Storm vs. 0 HP / 0 SpD Groudon: 200-236 (114.2 - 134.8%) -- guaranteed OHKO
 
 252+ Atk Groudon Fire Punch vs. 252 HP / 108 Def Rotom-C in Sun: 134-158 (85.3 - 100.6%) -- 6.3% chance to OHKO
 
-252+ Atk Groudon Precipice Blades vs. 252 HP / 108 Def Rotom-C: 81-96 (51.5 - 61.1%) -- guaranteed 3HKO after Sitrus Berry recovery*  
-(Just in case I went up against any Gravity teams)*
+252+ Atk Groudon Precipice Blades vs. 252 HP / 108 Def Rotom-C: 81-96 (51.5 - 61.1%) -- guaranteed 3HKO after Sitrus Berry recovery  
+(Just in case I went up against any Gravity teams)
 
 252+ SpA Venusaur Sludge Bomb vs. 252 HP / 20 SpD Rotom-C: 132-156 (84 - 99.3%) -- guaranteed 2HKO after Sitrus Berry recovery
 
-252 SpA Lunala Moongeist Beam vs. 252 HP / 20 SpD Rotom-C: 82-97 (52.2 - 61.7%) -- guaranteed 3HKO after Sitrus Berry recovery*
+252 SpA Lunala Moongeist Beam vs. 252 HP / 20 SpD Rotom-C: 82-97 (52.2 - 61.7%) -- guaranteed 3HKO after Sitrus Berry recovery
 </details>
 
 In addition, 84 Special Attack EVs with a Modest nature gave me a 72% chance to KO 4 HP / 0 SpD Yveltal with spread Electroweb + Thunderbolt. That never came up, but I planned for it.
