@@ -1,12 +1,11 @@
 ---
 title: 'Pokémon VGC North American Report: Sun Series September 2018'
 img: toreport.png
-author: 'Colton Kohnke[^1] and Kyle Littleton[^2]'
+author: 'Colton Kohnke and Kyle Littleton'
 date: 2018-10-05
 ---
 
-Introduction
-============
+### Introduction
 
 “Where are all the players?” - This is a common question in the Pokémon
 Video Game Championships (VGC) community. Tournament Organizers (TOs)
@@ -25,8 +24,7 @@ consistent players do I have in my region?”. Hopefully this leads to a
 better understanding of the Pokémon VGC circuit and can be used as a
 tool for community growth.
 
-Data Notes
-==========
+### Data Notes
 
 Every event that is reported to The Pokémon Company International (TPCi)
 comes with data on where the event was located and how many players
@@ -76,8 +74,7 @@ with the prize support offered at the event, but that is generally
 unquantifiable through the statistics reported to TPCi, and thus
 unsuitable for this report.
 
-September PC Statistics
-=======================
+### September PC Statistics
 
 In the month of September there were 617 players spread across 43 events
 in the continuous US. If we want to compute the expected value of this
@@ -112,8 +109,7 @@ It essentially confirms that it is more likely to have fewer number of
 players (8-13) than more players. This is no surprise as this
 approximation is derived from the histogram.
 
-September PC Spatial Statistics
-===============================
+### September PC Spatial Statistics
 
 Spatial data is difficult to work with, and even more so when that data
 is sparse, spread over the entirety of the US, and contains a few
@@ -166,8 +162,7 @@ spatial data, but it does highlight additional features in the data. One
 is the high in the North Carolina and Virginia area on the East Coast,
 which is a trend that was hidden by the hexagonal binning of the data.
 
-Discussion and Conclusion
-=========================
+### Discussion and Conclusion
 
 Personally, I did not find anything too surprising in this month’s data.
 The PCs were about where I expected them, but I expected there to be far
@@ -188,8 +183,7 @@ increase in attendance, but it seems it was not the case across the
 board. I hope next month with the return of MSS we see a greater
 increase in the number of players.
 
-Future Work
-===========
+### Future Work
 
 This month was about laying the framework for what is to come in future
 months. It is fairly rudimentary analysis with the potential to grow in
@@ -215,8 +209,7 @@ or any other means you have of contacting us. The source code to make
 the above plots and compile this report is avaliable on
 [Github](https://github.com/ckohnke/pkmheatmap).
 
-Acknowledgments
-===============
+#### Acknowledgments
 
 The authors would like to thank Kyle Littleton for taking the initiative
 to aggregate all of the VGC tournament data that is located at the
