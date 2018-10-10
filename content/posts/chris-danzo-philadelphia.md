@@ -10,7 +10,7 @@ Hello everyone, I am Chris Danzo (Lunarr), and I am here to share my Top 16 team
 ## Before The Event  
 I recently started my junior year of college and have already been slammed with work. Usually team building for events is my favorite part of the game. In this case, however, I relied heavily on my best friend, Danny Hemchand, to test and build ideas that we worked on together. At one point, he mentioned the idea of Groudon Yveltal (soon to be branded “Fried Bacon”) and I gave him a rundown of what I could see in the support slots. Eventually, he came back with a solid team that he was convinced could win the whole event. After some discussion, EV optimizing, and a Pokémon change, I was committed to using the squad.
 
-#### Original Team  
+##### Original Team  
 ![][Yveltal]
 ![][Groudon]
 ![][Venusaur]
@@ -140,7 +140,7 @@ The ride was a nightmare. The roads were clear and we didn’t run late or anyth
 ## Tournament Overview
 [*The editors have moved the in-depth warstory segment of the team report to a separate Google Doc to save space. You can read it by clicking here.*](https://docs.google.com/document/d/1TVsh230zIqIj5v4gd_UCy1DvsimYMUDbfCCMuVgBGVU/edit?usp=sharing)
 
-#### Round 1: Terry Hong (WLW)
+##### Round 1: Terry Hong (WLW)
 ![][Xerneas]
 ![][Groudon]
 ![][Tapu Koko]
@@ -148,7 +148,7 @@ The ride was a nightmare. The roads were clear and we didn’t run late or anyth
 ![][Cresselia]
 ![][Incineroar]  
 
-#### Round 2: Paul Chua (WLL)
+##### Round 2: Paul Chua (WLL)
 ![][Xerneas]
 ![][Lunala]
 ![][Tapu Koko]
@@ -156,7 +156,7 @@ The ride was a nightmare. The roads were clear and we didn’t run late or anyth
 ![][Stakataka]
 ![][Incineroar]  
 
-#### Round 3: Aaron Zheng (WLW)
+##### Round 3: Aaron Zheng (WLW)
 ![][Kyogre]
 ![][Groudon]
 ![][Tapu Lele]
@@ -164,7 +164,7 @@ The ride was a nightmare. The roads were clear and we didn’t run late or anyth
 ![][Ludicolo]
 ![][Incineroar]  
 
-#### Round 4: Christina Bacino (WLL)
+##### Round 4: Christina Bacino (WLL)
 ![][Xerneas]
 ![][Kyogre]
 ![][Amoonguss]
@@ -172,7 +172,7 @@ The ride was a nightmare. The roads were clear and we didn’t run late or anyth
 ![][Bronzong]
 ![][Incineroar]  
 
-#### Round 5: Jeremy Parson (WW)
+##### Round 5: Jeremy Parson (WW)
 ![][Xerneas]
 ![][Groudon]
 ![][Amoonguss]
@@ -180,7 +180,7 @@ The ride was a nightmare. The roads were clear and we didn’t run late or anyth
 ![][Bronzong]
 ![][Incineroar]  
 
-#### Round 6: Toler Webb (WW)
+##### Round 6: Toler Webb (WW)
 ![][Solgaleo]
 ![][Kyogre]
 ![][Crobat]
@@ -188,7 +188,7 @@ The ride was a nightmare. The roads were clear and we didn’t run late or anyth
 ![][Tsareena]
 ![][Incineroar]  
 
-#### Round 7: Erich Schrader (WW)
+##### Round 7: Erich Schrader (WW)
 ![][Xerneas]
 ![][Lunala]
 ![][Ditto]
@@ -196,7 +196,7 @@ The ride was a nightmare. The roads were clear and we didn’t run late or anyth
 ![][Ludicolo]
 ![][Incineroar]  
 
-#### Round 8: Joseph Ugarte (WLW)
+##### Round 8: Joseph Ugarte (WLW)
 ![][Yveltal]
 ![][Groudon]
 ![][Tapu Koko]
@@ -269,4 +269,4 @@ That’s all from me! Hope to see you at an event in the future!
 [Exeggutor-A]:https://www.serebii.net/pokedex-sm/icon/103-a.png
 [Ditto]:https://www.serebii.net/pokedex-sm/icon/132.png
 [Abomasnow]:https://www.serebii.net/pokedex-sm/icon/460.png
-
+[Cresselia]:https://www.serebii.net/pokedex-sm/icon/488.png
