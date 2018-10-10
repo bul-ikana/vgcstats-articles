@@ -1,5 +1,5 @@
 ---
-title: "Chris Danzo's 14th Place Philadelphia Report"
+title: "Fried Bacon - Chris Danzo's 14th Place Philadelphia Report"
 img: yveltal.png
 author: Chris Danzo
 date: 2018-10-10
@@ -102,7 +102,7 @@ IVs: 0 Atk
 
 Tapu Fini was the Pokémon Danny and I could not agree on. I really did not like Choice Specs; I felt like it did not mesh well with the team. Danny had calcs in his head for Sucker Punch + Tapu Fini calcs for unexpected KOs, but that’s just not how I play. I ended up going with it as Venusaur took on the support role on this team. This was my other regret of the event because, after testing, I found the team benefits from Speed control and Swagger support over additional damage. Overall I barely used Tapu Fini and, when I did, it felt hard to keep on the field without getting out-positioned. With that being said, support Tapu Fini is an amazing option for other teams and I highly recommend it!
 
-![](https://www.serebii.net/sunmoon/pokemon/804.png)  
+![](https://www.serebii.net/sunmoon/pokemon/805.png)  
 Stakataka @ Safety Goggles  
 Ability: Beast Boost  
 EVs: 252 HP / 252 Atk / 4 SpD  
@@ -115,7 +115,7 @@ IVs: 17 Def / 0 Spe
 
 Danny and I both agreed Stakataka was the best Pokémon for this slot. Bronzong took so long to set up and was threatened by most of the format while Stakataka tanks more common attacks. Stakataka can also snowball against teams if set up right, and some games I found it threatening a KO on opponents’  entire teams in Trick Room. I used it almost every game and it did exactly what we needed it to do. The IVs and nature are for an Attack boost from Beast Boost.
 
-![](https://www.serebii.net/sunmoon/pokemon/726.png)  
+![](https://www.serebii.net/sunmoon/pokemon/727.png)  
 Incineroar @ Figy Berry  
 Ability: Intimidate  
 EVs: 252 HP / 4 Atk / 4 Def / 236 SpD / 12 Spe  
@@ -267,4 +267,6 @@ That’s all from me! Hope to see you at an event in the future!
 [Heatran]:https://www.serebii.net/pokedex-sm/icon/485.png
 [Hariyama]:https://www.serebii.net/pokedex-sm/icon/297.png
 [Exeggutor-A]:https://www.serebii.net/pokedex-sm/icon/103-a.png
+[Ditto]:
+[Abomasnow]:
 
