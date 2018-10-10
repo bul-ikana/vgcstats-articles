@@ -63,7 +63,7 @@ IVs: 0 Atk
 - Sleep Powder  
 - Protect  
 
-What I wish I used:  
+*What I wish I used:*  
 ![](https://www.serebii.net/sunmoon/pokemon/003-f.png)  
 Venusaur @ Sitrus Berry  
 Ability: Chlorophyll  
@@ -88,7 +88,7 @@ IVs: 0 Atk
 - Grass Knot  
 - Haze  
 
-What I wish I used:  
+*What I wish I used:*  
 ![](https://www.serebii.net/sunmoon/pokemon/788.png)  
 Tapu Fini @ Wiki Berry  
 Ability: Misty Surge  
