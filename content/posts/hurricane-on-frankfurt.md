@@ -1,6 +1,6 @@
 ---
 title: "Hurricane on Frankfurt - Matteo Agostini's 1st Place Report"
-img: tornadus
+img: tornadus.png
 author: Matteo Agostini
 date: 2018-10-11
 ---
@@ -45,7 +45,7 @@ Tsareena @ Mago Berry
 - Trop Kick  
 Tsareena was perfect to block priority moves and to help Kyogre dish out more damage. I had to consider both Trop Kick and Power Whip, but I decided to use Trop Kick because of its 100% accuracy. Trop Kick’s guaranteed Attack drop was also useful when opposing Kyogre would switch out, limiting the newly switched-in Pokemon’s offense. 
 
-![](https://www.serebii.net/sunmoon/pokemon/726.png)  
+![](https://www.serebii.net/sunmoon/pokemon/727.png)  
 Incineroar @ Figy Berry  
 - Flare Blitz  
 - Knock Off  
