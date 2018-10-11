@@ -1,5 +1,5 @@
 ---
-title: ""Hurricane on Frankfurt" - Matteo Agostini's 1st Place Report"
+title: "Hurricane on Frankfurt - Matteo Agostini's 1st Place Report"
 img: tornadus.png
 author: Matteo Agostini
 date: 2018-10-11
@@ -21,7 +21,7 @@ Tornadus @ Focus Sash
 - Tailwind  
 I would like to begin with the MVP of this team. Tornadus was perfect because of Prankster. Tornadus’s Prankster gave me the possibility to Taunt fast Tailwind setters and Xerneas before they could set up, set my own Tailwind to support Kyogre and Xerneas, and Rain Dance to reset rain whenever I needed. Hurricane was also devastating for the Grass-type Pokémon that gave the rest of my team trouble.  
 
-![](https://www.serebii.net/sunmoon/pokemon/716.png)  
+![](https://www.serebii.net/sunmoon/pokemon/716-a.png)  
 Xerneas @ Power Herb  
 - Dazzling Gleam  
 - Geomancy  
@@ -244,3 +244,4 @@ Matteo Agostini
 [Scrafty]:https://www.serebii.net/pokedex-sm/icon/560.png
 [Tapu Bulu]:https://www.serebii.net/pokedex-sm/icon/787.png
 [Nihilego]:https://www.serebii.net/pokedex-sm/icon/793.png
+[Hitmontop]:https://www.serebii.net/pokedex-sm/icon/237.png
