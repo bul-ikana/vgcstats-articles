@@ -5,6 +5,8 @@ author: Matteo Agostini
 date: 2018-10-11
 ---
 
+Italian version [here](http://www.altopianoblu.it/2018/10/11/frankfurt-report-by-matteo-agostini/?utm_source=Facebook_PicSee)!
+
 Hi everyone, my name is Matteo Agostini and I am the VGC19 Sun Series Frankfurt Regional Champion. 
 
 I began playing Pokémon late into VGC16. My experience during VGC17 and VGC18 gave me many positive results, including seven Top Cuts in MSS events and a Top 16 at Sheffield Regional, but my most important result was surely Top 16 at the 2018 EUIC in London. My last season finished with a total score of 511 CP, but unfortunately for work reasons, I couldn't attend  the World Championships in Nashville. This year I began the season with 30 CP gained by winning a Premier Challenge and I decided to go to Frankfurt with my friends.
