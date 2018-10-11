@@ -163,7 +163,7 @@ Finally in Top Cut, nowevery single game became very important. Although I had s
 ![][Venusaur]
 ![][Heatran]  
 
-I played against Brtosz during the Swiss rounds, so I knew my plan and I had the opportunity to win this round with the same strategy I used the day before.
+I played against Bartosz during the Swiss rounds, so I knew my plan and I had the opportunity to win this round with the same strategy I used the day before.
 
 #### Top 4 – Matthias Suchodolski (WLW)  
 ![][Groudon]
