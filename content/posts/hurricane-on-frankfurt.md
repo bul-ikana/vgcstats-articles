@@ -1,5 +1,5 @@
 ---
-title: "Hurricane on Frankfurt  -  Matteo Agostini's 1st Place Report"
+title: ""Hurricane on Frankfurt" - Matteo Agostini's 1st Place Report"
 img: tornadus.png
 author: Matteo Agostini
 date: 2018-10-11
