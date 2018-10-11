@@ -63,7 +63,7 @@ Amoonguss helped me a lot against Trick Room teams, and redirecting my opponents
 
 ## Tournament Overview  
 
-####Round 1 – Jamie Boyt (WW)  
+#### Round 1 – Jamie Boyt (WW)  
 ![][Kyogre]
 ![][Lunala]
 ![][Tapu Koko]
@@ -245,3 +245,5 @@ Matteo Agostini
 [Tapu Bulu]:https://www.serebii.net/pokedex-sm/icon/787.png
 [Nihilego]:https://www.serebii.net/pokedex-sm/icon/793.png
 [Hitmontop]:https://www.serebii.net/pokedex-sm/icon/237.png
+[Rayquaza]:https://www.serebii.net/pokedex-sm/icon/384.png
+[Pheromosa]:https://www.serebii.net/pokedex-sm/icon/795.png
