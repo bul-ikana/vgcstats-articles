@@ -143,7 +143,7 @@ Bartosz is a solid player, but I knew that I was prepared for this kind of match
 
 Wiegelinho, one of the best players in Germany and in the world. Last round. If I win I'm surely in Top Cut. I could have a great chance to be in Top Cut with a loss as well because of my Resistance, but I didn’t want to take any risks. I didn't play very well game one, and in game two my Focus Sash Tornadus was burned, which changed my gameplan and I wasn't able to solve the situation. I finished my Swiss rounds with a total score of 6-2. Fortunately, that was enough.
 
-### TOP CUT
+### Top Cut
 
 #### Top 16 – Vincent Wininger (WW)  
 ![][Xerneas]
