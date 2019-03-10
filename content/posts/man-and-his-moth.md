@@ -7,7 +7,7 @@ date: 2019-03-10
 
 Hi, I’m Jake Magier, jackofspadesman online, and I was born, raised, and still live in the suburbs of Boston, MA. I’ve been playing Pokémon for as long as I can remember, and I started gaining interest in competitive Pokémon after I got Pokémon Diamond in 2006. I started playing VGC thanks to my good friend, Aaron Traylor ([@TBFUnreality](https://twitter.com/TBFUnreality)). We’ve remained best friends through high school and college. He brought me under his wing in late 2014 — I suspect because he wanted a close friend with the same love of Pokémon to start playing VGC and I’m sure he also wanted rides to our local Premier Challenges.  My first regional ever was St. Louis in 2015, which (to my elation) Aaron won, so winning Collinsville this year was special to me.
 
-After watching my good friends Brendan Zheng ([@Babbytron](https://twitter.com/Babbytron)) and Paul Chua ([@Paul_Chua_](https://twitter.com/Paul_Chua_)) get Top 16 at the most recent World Championships, and another good friend  Jeremy Odena ([@JayOhh_12](https://twitter.com/JayOhh_12)) making Day 2, I decided that, after 4 years, it was time to put my full effort into improving at the game I love and get my first invite to Worlds. There’s been a real fire in my heart this season, and I’m in a fantastic spot in my life to be fortunate enough to focus my time on competing.
+After watching my good friends Brendan Zheng ([@Babbytron](https://twitter.com/Babbytron)) and Paul Chua ([@Paul\_Chua\_](https://twitter.com/Paul_Chua_)) get Top 16 at the most recent World Championships, and another good friend  Jeremy Odena ([@JayOhh_12](https://twitter.com/JayOhh_12)) making Day 2, I decided that, after 4 years, it was time to put my full effort into improving at the game I love and get my first invite to Worlds. There’s been a real fire in my heart this season, and I’m in a fantastic spot in my life to be fortunate enough to focus my time on competing.
 
 ## At A Glance
 ![][Xerneas]![][Groudon]![][Incineroar]![][Amoonguss]![][Volcarona]![][Tapu Koko]
@@ -88,7 +88,7 @@ IVs: 0 Atk / 22 Spe
 Bring rate: 12/22, 54.5%  
 Win rate: 11/12, 91.7%  
 
-With an HP stat divisible by four, Amoonguss will eat its Aguav Berry after two Super Fangs/Nature’s Madness. Amoonguss’ Defense investment is used to survive 252 Adamant Groudon’s Fire Punch and 22 Speed was just a silly little thing I did which never came into play really. This minimized Gyro Ball damage while also allowing me to outspeed almost all Incineroar while in Tailwind. Shout outs to Aaron for realizing that in Sun Series! Level 55 because apparently that’s Wacka’s (@WackaPuff) favorite number. Wacka and Joseph (@c9_joseph) are good friends :)
+With an HP stat divisible by four, Amoonguss will eat its Aguav Berry after two Super Fangs/Nature’s Madness. Amoonguss’ Defense investment is used to survive 252 Adamant Groudon’s Fire Punch and 22 Speed was just a silly little thing I did which never came into play really. This minimized Gyro Ball damage while also allowing me to outspeed almost all Incineroar while in Tailwind. Shout outs to Aaron for realizing that in Sun Series! Level 55 because apparently that’s Wacka’s ([@WackaPuff](https://twitter.com/WackaPuff)) favorite number. Wacka and Joseph ([@c9\_joseph](https://twitter.com/c9_joseph)) are good friends :)
 
 ![](https://www.serebii.net/sunmoon/pokemon/637.png)  
 
